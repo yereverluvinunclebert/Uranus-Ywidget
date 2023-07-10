@@ -4,6 +4,7 @@ Steampunk Uranus Desktop Yahoo Widget, written in Javascript and XML for the Yah
 Widget (Konfabulator) Engine. Created for XP, Vista, Win7, 8, 10+ as well as the 
 Apple Mac.
 
+![uranus](https://github.com/yereverluvinunclebert/Uranus-Ywidget/assets/2788342/fa39bb84-3152-4e66-a67b-8133b7fd56c5)
 
 This Uranus Desktop Widget is an attractive dieselpunk Yahoo widget for your 
 desktop. This Konfabulator/ yahoo widget provides a simple static marble globe. 
@@ -18,6 +19,8 @@ to fire up. The first time you run it there will be no assigned function and so
 it will state as such - then it will pop up the preferences so that you can enter 
 the command of your choice. The widget takes command line-style commands for
 windows or Mac OS/X.
+
+![about](https://github.com/yereverluvinunclebert/Uranus-Ywidget/assets/2788342/f36c9ee1-e84e-4911-a38c-07df3fa6aa88)
 
 All javascript widgets need an engine to function, in this case the widget uses 
 the Yahoo Widget Konfabulator engine. The engine interprets the javascript and 
