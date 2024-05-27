@@ -4,6 +4,8 @@ Steampunk Uranus Desktop Yahoo Widget, written in Javascript and XML for the Yah
 Widget (Konfabulator) Engine. Created for XP, Vista, Win7, 8, 10+ as well as the 
 Apple Mac.
 
+This widget is now deprecated and is retained for historical reasons only, it still works but time moves ever onward - please use the VB6 version instead that you will find here: https://github.com/yereverluvinunclebert/Uranus-VB6-Widget
+
 ![uranus](https://github.com/yereverluvinunclebert/Uranus-Ywidget/assets/2788342/fa39bb84-3152-4e66-a67b-8133b7fd56c5)
 
 This Uranus Desktop Widget is an attractive dieselpunk Yahoo widget for your 
